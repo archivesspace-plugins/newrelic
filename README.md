@@ -8,6 +8,7 @@
 - Edit `config.rb` to:
   - activate the `newrelic` plugin
   - add the New Relic license key
+    - User menu -> API Keys -> Create a key -> Key type: Ingest - License
   - add an application name to identify the ArchivesSpace instance in the New Relic dashboard
 
 For example, in config.rb:
